@@ -1,11 +1,11 @@
-### Hi there i'm Madhukar 
+### Hi there i'm Madhukar👋
 
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on React
 - 🌱 &nbsp;I’m currently learning Soemthing cool
 - 📫 &nbsp;How to reach me: [@Madhukar_xi](https://www.instagram.com/madhukar_xi/)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s
+- ⚡ &nbsp;Fun fact: Coding is Super Easy
 
 🔗 &nbsp;**Connect with me**
 
